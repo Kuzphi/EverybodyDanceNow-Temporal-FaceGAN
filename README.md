@@ -41,6 +41,9 @@ to get the pose annotation from video
 * Download pre-trained vgg_16 for face enhancement [here](https://drive.google.com/file/d/180WgIzh0aV1Aayl_b1X7mIhVhDUcW3b1/view?usp=sharing) and put in `./face_enhancer/`
 
 ## Full process
+
+This step is completed in Ubuntu 16.04
+
 ### Pose2vid network
 
 #### Make target pictures
