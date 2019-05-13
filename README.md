@@ -1,4 +1,5 @@
-# EverybodyDanceNow reproduced in pytorch
+# EverybodyDanceNow-Temporal-Smoothing-FaceGAN
+
 
 Created by Liangjian Chen.
 
