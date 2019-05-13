@@ -71,7 +71,7 @@ to get the pose annotation from video
 
 
 #### Gain results
-* Run `python transfer_temporal.py` and make result pictures to gif picture
+* Run `python transfer_temporal.py` and make result pictures to video
 
 
 ## TODO
